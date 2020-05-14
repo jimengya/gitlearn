@@ -1,3 +1,2 @@
 A new file.
-Great.
-Jimeng.
+Study rebase.
