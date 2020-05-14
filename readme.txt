@@ -5,3 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Learn how to manager branch.
+Work not completed.
+Continue working.
