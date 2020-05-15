@@ -3,6 +3,9 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
+# Java
+*.class
+
 # Python:
 *.py[cod]
 *.so
